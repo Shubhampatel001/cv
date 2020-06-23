@@ -1,19 +1,81 @@
-body{
-  background-color: #a6e3e9;
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+  color: #faf2f2;
 }
 
-hr{
+h1 {
+  font-size: 3.5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+  color: #f0f0f0;
+}
+
+hr {
   border-color: #596c68;
-  width: 7%;
-  border-style:dotted none none;
-  border-width: 7px;
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 10px;
+
+
 }
-h1{
+.abc{
+  background-image: url("https://img.favpng.com/11/6/8/the-boss-baby-image-illustration-film-dreamworks-animation-png-favpng-DT6RJemx1k3LLU8HfuEpvL0E1.jpg");
+  background-attachment: fixed;
+ background-position: top;
+ background-repeat: no-repeat;
+ background-size: 90%;
+ min-height: 150px;
+
+}
+.abc1{
+  background-image: url("https://vignette.wikia.nocookie.net/dreamworks/images/5/52/8260c358617564297ca30c4dbbef7c26.jpg/revision/latest/top-crop/width/360/height/360?cb=20190302123446");
+  background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 90%;
+ min-height: 150px;
+
+}
+ul {
+  display: inline-block;
+}
+a{
+  color: #f3e1e1;
+}
+h3 {
   color: #34495e;
+  font-size: 2rem;
 }
-h3{
-  color: #34495e;
+
+table {
+  display: inline-block;
+  text-align: initial;
 }
-table{
-      text-align: center;
+
+ol {
+  display: inline-block;
+}
+
+li {
+  text-align: left;
+  font-size: 120%;
+  padding-top: 30px;
+}
+
+img {
+  padding-top: 60px
+}
+
+.t {
+  font-size: 120%;
+}
+
+div {
+  background-color: #888888;
+display: flow-root;
+}
+.cm{
+  background-color: black;
 }
